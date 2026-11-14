@@ -21,3 +21,15 @@ em elementos mais complexos do JavaScript.
 ---
 
 > 📌 **Status do Projeto:** 🚧 Em andamento — Registrando anotações, exercícios práticos e projetos ao longo das aulas.
+
+ **Conteúdo do curso:**  
+[X] Conceitos Básicos  
+[...] Lógica de programação  
+[ ] Funcões(Avançado)  
+[ ] Arrays(Avançado)  
+[ ] Objetos e prototypes(Avançado)  
+[ ] Programação Orientada a Objetos - POO  
+. . . 
+
+
+
