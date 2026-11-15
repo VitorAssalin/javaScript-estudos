@@ -8,3 +8,8 @@ Captura os dados preenchidos em um formulário HTML (nome, sobrenome, peso, altu
 ## O que foi utilizado
 - **HTML5:** Estrutura do formulário e inputs.
 - **JavaScript:** Manipulação do DOM (`querySelector`, `innerHTML`), eventos (`addEventListener`, `preventDefault`), funções, arrays e objetos.
+
+
+## Projeto Funcionando
+
+![Tela do Projeto Final](src/img/projeto.png)
